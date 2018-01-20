@@ -18,6 +18,6 @@ echo ;>> "C:\Program Files\SQLLIB\db2cli.ini"
 echo [HISERIES]>> "C:\Program Files\SQLLIB\db2cli.ini"
 echo PWD=InCome2K>> "C:\Program Files\SQLLIB\db2cli.ini"
 echo UID=HIRIGHT>> "C:\Program Files\SQLLIB\db2cli.ini"
-echo DBALIAS=[TRUEOLD]>> "C:\Program Files\SQLLIB\db2cli.ini"
+echo DBALIAS=TRUEOLD>> "C:\Program Files\SQLLIB\db2cli.ini"
 
 echo OK!!
