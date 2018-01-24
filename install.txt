@@ -18,3 +18,4 @@ mkdir "C:\Program Files\SQLLIB\DB2\SQLNODIR"
 copy /y SQLNODIR\*.* "C:\Program Files\SQLLIB\DB2\SQLNODIR"
 
 REM pause
+REM This was added by PN Bps At tangjai yontrakarn
