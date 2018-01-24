@@ -17,4 +17,4 @@ copy /y SQLDBDIR\*.* "C:\Program Files\SQLLIB\DB2\SQLDBDIR"
 mkdir "C:\Program Files\SQLLIB\DB2\SQLNODIR"
 copy /y SQLNODIR\*.* "C:\Program Files\SQLLIB\DB2\SQLNODIR"
 
-pause
+REM pause
